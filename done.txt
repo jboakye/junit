@@ -1,3 +1,4 @@
+* JOB
 * name space of JUnit4 is org.junit
 * JUnit4 requires J2SE 5.0
 	leverage J2SE 5.0 features
